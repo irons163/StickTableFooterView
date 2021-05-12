@@ -2,7 +2,7 @@
 
 # StickTableFooterView 
 
-![](./ScreenShots/demo1.gif width="50%")
+![](./ScreenShots/demo1.gif)
 
 ### How to keep tableFooterView always on bottom of UITableView?
 
